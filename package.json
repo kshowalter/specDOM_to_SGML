@@ -1,0 +1,22 @@
+{
+  "name": "specdom_to_sgml",
+  "version": "0.1.0",
+  "description": "Outputs specDOM object to a string (HTML, SVG)",
+  "main": "./index.js",
+  "author": "Ketih Showalter",
+  "license": "BSD-2-Clause",
+  "keywords": [
+    "HTML",
+    "SVG"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kshowalter/specDOM_to_SGML"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
